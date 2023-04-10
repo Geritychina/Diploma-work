@@ -1,4 +1,4 @@
-# Last year diploma work 🏣
+# Last year diploma work 🎓📘📕📗
 
 Diploma work for Plovdiv Paisii Hilendarsky university
 
