@@ -1,6 +1,6 @@
 # Final diploma work 🎓📘📕📗
 
-Diploma work for Plovdiv Paisii Hilendarsky University
+Diploma Work Project for Plovdiv University Paisii Hilendarsky
 
 
 
