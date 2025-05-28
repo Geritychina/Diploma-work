@@ -57,7 +57,7 @@ This project is a web-based educational management system designed to streamline
 ### Prerequisites
 
 - [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 
 📄 License
 This project is licensed under the MIT License.
