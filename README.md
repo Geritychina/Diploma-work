@@ -59,7 +59,6 @@ This project is a web-based educational management system designed to streamline
 - [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 
-📄 License
-This project is licensed under the MIT License.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Made with love by Gergana ❤®
