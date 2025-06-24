@@ -1,4 +1,4 @@
-# 📘 Diploma Work: Educational Management System
+# 📘 Diploma Work: Educational Management System 💯📚
 
 **Diploma Work Project for Plovdiv University "Paisii Hilendarski"**
 
