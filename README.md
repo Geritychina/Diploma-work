@@ -1,6 +1,6 @@
 # 📘 Diploma Work: Educational Management System 💯📚
 
-**Diploma Work Project for Plovdiv University "Paisii Hilendarski"**
+**Diploma Work Project for Plovdiv University "Paisii Hilendarski"**📚
 
 This project is a web-based educational management system designed to streamline communication and organization between teachers and students. It offers functionalities such as subject management, group messaging, and user role differentiation.
 
